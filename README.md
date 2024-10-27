@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «ELK»
+# Домашнее задание к занятию «ELK» - Погопелов Яолслав
 
 ### Инструкция по выполнению домашнего задания
 
@@ -61,7 +61,7 @@
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat. 
 
 *Приведите скриншот Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
-![task  4 screen](https://github.com/Toazter426/ELK-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%204.png)
+![task  4 screen](https://github.com/Toazter426/ELK-hw/blob/main/img/Задание 4.png)
 
 
 
